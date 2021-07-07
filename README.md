@@ -2,6 +2,10 @@
 
 <br>
 
+## Alteralção Realizada por Thiago Teberga:
+- Alterado o arquivo "projeto-tteberga\app.js" para que as categoria sejam localizadas pelo comando MAP
+- Removido os acentos que haviam no arquivo "database.js", ao tentar buscar a categoria "Américas" o Readline não estava localizando
+
 ## Javascript avançado
 - Template string
 - Operador ternário
