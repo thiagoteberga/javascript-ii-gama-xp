@@ -8,7 +8,7 @@ const pessoa = {
 console.log(pessoa.nome) //"Simara"
 
 //Notação de colchetes
-console.log(pessa['idade']) //32
+console.log(pessoa['idade']) //32
 
 //Como desestruturar Objetos 
 

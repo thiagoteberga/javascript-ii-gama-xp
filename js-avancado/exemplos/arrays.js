@@ -4,6 +4,7 @@ const alunasGama = ["Paula", "Maria", "Estela", "Clara"]
 console.log(alunasGama[3]) //"Clara"
 
 // Operador spread (...)
+// Utiliza um Array Existente e Adiciona Mais Informacoes
 const alunasXp = [...alunasGama, "Simara"]
 
 console.log(alunasXp)
